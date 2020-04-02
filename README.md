@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to Aplikasi Pages
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/aplikasi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can visit this site on [https://mesinkasir.github.io/aplikasi](https://mesinkasir.github.io/aplikasi).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Aplikasi
 
-### Markdown
+ini adalah aplikasi kasir online dan offline dalam kebutuhan menujang kebutuhan bisnis mu , mulai dari retail shop store minimarket supermarket hingga kebutuhan usaha kuliner restoran cafe fastfood streetfood depot warung hingga warkop dan kebutuhan akan pembukuan office dengan invoice dan inventori modern system maka kunjungi web site kami.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Aplikasi online clouds based
 
-# Header 1
-## Header 2
-### Header 3
+Menggunakan web based technology untuk tujuan kemudahan dalam bertransaksi dan cek pembukuan semakin mobile dengan kemampuan multi akses via smartphone android iphone hingga mesin kasir windows dan berbagai OS lain nya.
 
-- Bulleted
-- List
+### Aplikasi offline
 
-1. Numbered
-2. List
+Sekali beli untuk selamanya bisa di instal berulang kali pada pc yang sama untuk kebutuhan based offline mode dalam kebutuhan menunjang transaksi mu semakin memudahkan dalam setiap aktivitas pekerjaan semakin stabil tentunya dengan offline mode.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/aplikasi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+untuk informasi detail mengenai aplikasi mu kunjungi web aplikasi kami [lets get started](https://mesinkasir.github.io/aplikasi).
